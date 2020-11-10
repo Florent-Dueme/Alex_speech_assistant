@@ -1,3 +1,5 @@
+# Link to video: https://www.youtube.com/watch?v=x8xjj6cR9Nc&list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx&index=3
+
 # This will be our main file to build the speech assistant
 
 # In order to install pyaudio remember to install pipwin first
